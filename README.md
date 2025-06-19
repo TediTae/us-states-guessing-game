@@ -29,8 +29,8 @@ The game continues until all states are guessed or the player exits.
 ## Installation
 1. Clone this repository
 2. Make sure you have the following files in the project directory:
- - blank_states_img.gif
- - 50_states.csv
+   - blank_states_img.gif
+   - 50_states.csv
 3. Run the Python script:
    - main.py
 
